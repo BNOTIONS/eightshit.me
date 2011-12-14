@@ -1,4 +1,4 @@
-application/cache/*
-application/logs/*
-application/incoming/*
-avatars/*
+#application/cache/*
+#application/logs/*
+#application/incoming/*
+#avatars/*
