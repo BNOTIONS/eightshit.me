@@ -1,0 +1,107 @@
+body {
+  background-color: #FF00FF;
+  text-align: center;
+  color: #fff;
+  font-family: "Comic Sans MS";
+  font-size: 18px;
+}
+
+.list,.fun {
+width: 95%;
+margin: auto;
+text-align: center;
+overflow: hidden;
+clear: both;
+}
+
+.avatar {
+display: block;
+float: left;
+overflow: hidden;
+margin: 0px;
+width: 200px;
+}
+
+.avatar a {
+display: block;
+color: white;
+font-family: "Comic Sans MS";
+font-size: 15px;
+text-decoration: none;
+text-shadow: 5px 5px 10px #333;
+margin: 0 auto 10px;
+}
+
+.avatar a:hover {
+text-decoration: underline;
+color: #ff0;
+}
+
+.avatar img {
+display: block;
+-webkit-box-shadow: 10px 10px 15px #333;
+margin: auto;
+}
+
+img {
+border: none;
+}
+
+.like {
+height: 23px;
+}
+
+.counters {
+	width: 792px;
+	height: 342px;
+	background: url(/media/img/counters.png) center no-repeat;
+	margin: auto;
+}
+
+.box {
+	width: 200px;
+	height: 200px;
+	float: left;
+	margin: 100px 30px;
+	text-align: center;
+	color: #fff;
+	font-size: 40px;
+	font-weight: bold;
+	font-family: "Comic Sans MS";
+}
+
+.gallery {
+	clear: both;
+	text-align: center;
+}
+
+.intro {
+font-size: 24px;
+}
+
+.instructions {
+font-size: 24px;
+margin: auto;
+text-align: left;
+width: 570px;
+}
+
+.floaty_corner {
+	position: fixed;
+	top: 0px;
+	right: 0px;
+}
+
+.floaty_other_corner {
+	position: fixed;
+	top: 0px;
+	left: 0px;
+}
+
+h3 a {
+color: #fff;
+text-decoration: none;
+}
+
+
+/* eat shit */

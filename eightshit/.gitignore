@@ -1,0 +1,4 @@
+application/cache/*
+application/logs/*
+application/incoming/*
+avatars/*
