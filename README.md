@@ -6,7 +6,7 @@ I haven't really looked through the source in a long time either so I don't real
 
 All the stuff labelled 'god' is actually the admin stuff.
 
-There also may be stupid/bad words in the comments, but the site is called eightshit anyway
+There also may be stupid/bad words in the comments, but the site is called eightshit anyway!
 
 Other libraries used here:
 * [Kohana 3.1](http://kohanaframework.org) (You'll especially want to get familiar with this one and its Auth module)
